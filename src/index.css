@@ -2,4 +2,22 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background: #1be7e7;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+
+.btn {
+  margin: 5rem 0;
+  background: #0b0b99;
+  color: #fff;
+  padding: 1rem 3rem;
+  font-size: 1.1rem;
+  border: none;
 }
